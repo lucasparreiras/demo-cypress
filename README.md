@@ -57,8 +57,6 @@ Será exibida a seguinte tela. Na área marcada com `1` temos os testes já cria
 
 Os arquivos de testes do Cypress são uma sequência de funções, em JavaScript, que testam o front-end da aplicação.
 
-Como primeiro teste, iremos apenas observar o resultado de uma simples asserção. Primeiro, crie um novo arquivo chamado `meu_teste.js` na pasta `integration` e copie o seguinte código para ele:
-
 Como primeiro teste, iremos apenas observar o resultado de uma simples asserção. Primeiro, crie um novo arquivo chamado `meu_teste.js`, clicando sobre o botão `+ New Spec File`, o arquivo deverá ser criado na pasta `integration` e copie o seguinte código para ele:
 
 ```javascript
